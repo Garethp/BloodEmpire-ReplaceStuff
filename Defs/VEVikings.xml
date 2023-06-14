@@ -1,0 +1,21 @@
+<Defs>
+    <Replace_Stuff_Compatibility.InterchangeableItems MayRequire="OskarPotocki.VFE.Vikings">
+        <defName>Garethp_ReplaceStuff_BloodEmpire_VEVikings</defName>
+        <replaceLists>
+            <li>
+                <category>Columns</category>
+                <items>
+                    <li>VFEV_RunedColumn</li>
+                </items>
+            </li>
+
+            <li>
+                <category>FermentingBarrels</category>
+                <items>
+                    <li>FermentingBarrel</li>
+                    <li>VFEV_MeadFermentingBarrel</li>
+                </items>
+            </li>
+        </replaceLists>
+    </Replace_Stuff_Compatibility.InterchangeableItems>
+</Defs>

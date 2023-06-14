@@ -1,0 +1,14 @@
+﻿<Defs>
+	<Replace_Stuff_Compatibility.InterchangeableItems MayRequire="VanillaExpanded.VFEArchitect">
+		<defName>Garethp_ReplaceStuff_BloodEmpire_VEArchitects</defName>
+		<replaceLists>
+			<li>
+				<isWall>true</isWall>
+				<items>
+					<li>VFEArch_HedgeWall</li>
+					<li>VFEArch_BrickFence</li>
+				</items>
+			</li>
+		</replaceLists>
+	</Replace_Stuff_Compatibility.InterchangeableItems>
+</Defs>

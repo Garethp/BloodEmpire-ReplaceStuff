@@ -1,0 +1,45 @@
+<Defs>
+    <Replace_Stuff_Compatibility.InterchangeableItems MayRequire="LimeTreeSnake.Furnishing">
+        <defName>Garethp_ReplaceStuff_BloodEmpire_LTS_Furnishing</defName>
+        <replaceLists>
+            <li>
+                <category>Columns</category>
+                <items>
+                    <li>LTS_Pillar</li>
+                </items>
+            </li>
+            
+            <li>
+                <category>Counters</category>
+                <items>
+                    <li>LTS_Counter</li>
+                    <li>LTS_CounterB</li>
+                    <li>LTS_CounterS</li>
+                    <li>LTS_CounterG</li>
+                </items>
+            </li>
+
+            <li>
+                <items>
+                    <li>Shelf</li>
+                    <li>LTS_Malsjo</li>
+                    <li>LTS_HyllisS</li>
+                    <li>LTS_HyllisL</li>
+                </items>
+                <comps>
+                    <li>Replace_Stuff_Compatibility.Comps.CopyStorageSettingsComp</li>
+                </comps>
+            </li>
+
+            <li>
+                <items>
+                    <li>LTS_Fireplace</li>
+                    <li>LTS_Firepit</li>
+                    <li>LTS_FirepitRound</li>
+                </items>
+            </li>
+        </replaceLists>
+
+
+    </Replace_Stuff_Compatibility.InterchangeableItems>
+</Defs>

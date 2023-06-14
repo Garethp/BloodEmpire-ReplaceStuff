@@ -1,0 +1,25 @@
+<Defs>
+    <Replace_Stuff_Compatibility.InterchangeableItems MayRequire="Neronix17.Outland.Core">
+        <defName>Garethp_ReplaceStuff_BloodEmpire_Outland</defName>
+        <replaceLists>
+            <li>
+                <isWall>true</isWall>
+                <items>
+                    <li>Outland_TentWall</li>
+                </items>
+            </li>
+        </replaceLists>
+    </Replace_Stuff_Compatibility.InterchangeableItems>
+
+    <Replace_Stuff_Compatibility.InterchangeableItems MayRequire="Neronix17.Outland.FurnitureAndDecor">
+        <defName>Garethp_ReplaceStuff_BloodEmpire_Outland</defName>
+        <replaceLists>
+            <li>
+                <items>
+                    <li>Outland_Bookshelf</li>
+                    <li>Outland_StoneBookshelf</li>
+                </items>
+            </li>
+        </replaceLists>
+    </Replace_Stuff_Compatibility.InterchangeableItems>
+</Defs>

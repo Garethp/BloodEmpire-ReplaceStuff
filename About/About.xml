@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Replace Stuff - Blood Empire</name>
+	<author>Garethp</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<packageId>Garethp.ReplaceStuff.BloodEmpire</packageId>
+	<description>A set of Replace Stuff compatibility patches for the Blood Empire modlist</description>
+	<modDependencies>
+		<li>
+			<packageId>Uuugggg.ReplaceStuff</packageId>
+			<displayName>Replace Stuff</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/id/Uuugggg/myworkshopfiles/?appid=294100</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>Garethp.ReplaceStuffCompatibility</packageId>
+			<displayName>Replace Stuff - Mod Compatibility</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2642161586</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+</ModMetaData>

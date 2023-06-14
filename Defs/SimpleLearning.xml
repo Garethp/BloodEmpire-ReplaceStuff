@@ -1,0 +1,51 @@
+<Defs>
+    <Replace_Stuff_Compatibility.InterchangeableItems MayRequire="Fox.SimpleLearning">
+        <defName>Garethp_ReplaceStuff_BloodEmpire_SimpleLearning</defName>
+        <replaceLists>
+            <li>
+                <isWorkbench>true</isWorkbench>
+                <items>
+                    <li>Neo_Learning_Desk</li>
+                    <li>Mid_Learning_Desk</li>
+                    <li>Adv_Learning_Desk</li>
+                    <li>Spacer_Learning_Desk</li>
+                </items>
+            </li>
+
+            <li>
+                <isWorkbench>true</isWorkbench>
+                <items>
+                    <li>AuthorDesk</li>
+                    <li>Printing_Press</li>
+                </items>
+            </li>
+
+            <li>
+                <items>
+                    <li>Neo_Board</li>
+                    <li>Board</li>
+                    <li>Spacer_Board</li>
+                </items>
+            </li>
+
+            <li>
+                <items>
+                    <li>Cooking_Bookshelf</li>
+                    <li>Plants_Bookshelf</li>
+                    <li>Art_Bookshelf</li>
+                    <li>Medicine_Bookshelf</li>
+                    <li>Shooting_Bookshelf</li>
+                    <li>Melee_Bookshelf</li>
+                    <li>Social_Bookshelf</li>
+                    <li>Construct_Bookshelf</li>
+                    <li>Mining_Bookshelf</li>
+                    <li>Intellectual_Bookshelf</li>
+                    <li>Animals_Bookshelf</li>
+                    <li>Crafting_Bookshelf</li>
+                    <li>Joy_Bookshelf</li>
+                    <li>Spacer_Joy_Bookshelf</li>
+                </items>
+            </li>
+        </replaceLists>
+    </Replace_Stuff_Compatibility.InterchangeableItems>
+</Defs>
