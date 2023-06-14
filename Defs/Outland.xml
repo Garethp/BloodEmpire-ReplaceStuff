@@ -12,7 +12,7 @@
     </Replace_Stuff_Compatibility.InterchangeableItems>
 
     <Replace_Stuff_Compatibility.InterchangeableItems MayRequire="Neronix17.Outland.FurnitureAndDecor">
-        <defName>Garethp_ReplaceStuff_BloodEmpire_Outland</defName>
+        <defName>Garethp_ReplaceStuff_BloodEmpire_OutlandFurniture</defName>
         <replaceLists>
             <li>
                 <items>
